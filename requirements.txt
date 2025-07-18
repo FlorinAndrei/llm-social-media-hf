@@ -1,0 +1,29 @@
+# Python modules
+numpy
+tqdm
+triton
+matplotlib
+plotly
+black
+
+# Jupyter
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+ipywidgets
+nbconvert
+
+# Hugging Face modules
+transformers
+datasets
+accelerate
+evaluate
+bitsandbytes
+trl
+peft
+
+# PyTorch modules
+torch
+torchvision
+torchaudio
